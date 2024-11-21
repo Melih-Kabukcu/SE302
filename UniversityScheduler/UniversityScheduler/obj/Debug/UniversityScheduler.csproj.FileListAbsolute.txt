@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\bin\Debug\UniversityScheduler.exe.config
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\bin\Debug\UniversityScheduler.exe
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\bin\Debug\UniversityScheduler.pdb
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\App.g.cs
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler_MarkupCompile.cache
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler_MarkupCompile.lref
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.g.resources
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.exe
+C:\Users\ASUS\Documents\GitHub\SE302\UniversityScheduler\UniversityScheduler\obj\Debug\UniversityScheduler.pdb
