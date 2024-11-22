@@ -7,6 +7,45 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="130"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="4" Grid.Row="1" Text="Izmir University of Economics" FontSize="40" FontWeight="Bold" TextAlignment="Center"></TextBlock>
+        <TextBlock Grid.Column="4" Grid.Row="2" Text="Academic Scheduling System" FontSize="40" FontWeight="Bold" TextAlignment="Center"></TextBlock>
+        <StackPanel Grid.Column="0" Grid.RowSpan="7" Background="Black" Orientation="Vertical">
+            <Button Width="130" Height="130" Background="Black" BorderBrush="Transparent">
+                <StackPanel>
+                    <Image></Image>
+                    <TextBlock Text="Courses" FontWeight="Bold" FontSize="20" Foreground="White"></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Width="130" Height="130" Background="Black" BorderBrush="Transparent">
+                <StackPanel>
+                    <Image></Image>
+                    <TextBlock Text="Classrooms" FontWeight="Bold" FontSize="20" Foreground="White" ></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Width="130" Height="130" Background="Black" BorderBrush="Transparent">
+                <StackPanel>
+                    <Image></Image>
+                    <TextBlock Text="Students" FontWeight="Bold" FontSize="20" Foreground="White"></TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>
